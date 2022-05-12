@@ -1,5 +1,10 @@
 # Spigot-1.18.2-PreLoaded
-
+## REQUIREMENTS
+- Download [Java SE Dev Kit 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- Install Java 17
+- Add `JAVA_DIRECTORY\bin` folder directory to system PATH. [Check Here (Step 2: How to set Permanent Path of JDK in Windows)](https://www.javatpoint.com/how-to-set-path-in-java)
+- Open CMD, enter: `java --version`
+- Everything is ok if java version is set to 17
 ## Run Server (one click)
 - run `runServer.bat`
 ### Edit server ram config
